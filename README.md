@@ -13,8 +13,8 @@ I used a fields configuration array to dynamically render inputs and run all val
 
 - Faster development time ⏱️
 
--- Clean, reusable code 🧼
+- Clean, reusable code 🧼
 
--- Easy to maintain or scale 🧱
+- Easy to maintain or scale 🧱
 
--- Demonstrates problem-solving and UI/UX thinking 💡
+- Demonstrates problem-solving and UI/UX thinking 💡

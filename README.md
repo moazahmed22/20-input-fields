@@ -9,9 +9,9 @@ The React Compiler is not enabled on this template because of its impact on dev 
 Instead of manually writing 20 input fields and individual validations,
 I used a fields configuration array to dynamically render inputs and run all validation logic through one generic function.
 
-##Benefits:
+## Benefits:
 
--- Faster development time ⏱️
+- Faster development time ⏱️
 
 -- Clean, reusable code 🧼
 
